@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Proyecto Web</title>
+  <SmokeSoft>Proyecto Web/>
 </head>
 <body>
   <h1>Mi primer repositorio</h1>
