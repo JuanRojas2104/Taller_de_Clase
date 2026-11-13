@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <SmokeSoft>Proyecto Web</SmkeSoft>
-</head>
-<body>
-  <h1>Mi primer repositorio</h1>
-  <p>Práctica de Git y GitHub - SENA.</p>
-</body>
-</html>
+# proyecto-web
+
+**Nombre:** Juan David Rojas
+**Objetivo:** Practicar el flujo básico de control de versiones: commits, ramas y Pull Requests.
+**Tecnologías:** HTML, Git, GitHub
